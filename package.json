@@ -1,0 +1,10 @@
+{
+  "name": "heroku-posgres-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "author": "kuroneko0441",
+  "license": "ISC",
+  "dependencies": {}
+}
